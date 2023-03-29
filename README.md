@@ -21,6 +21,7 @@ Los objetivos son:
 ---
 
 *Se utiliza una plantilla de Bootstrap*
+
 *Existe un archivo js/main.js vinculado donde se debe agregar el código para manipular el DOM*
 
 
